@@ -11,6 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {}, // updated
   "devDependencies": {}
 }
