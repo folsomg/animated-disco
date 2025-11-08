@@ -1,4 +1,4 @@
-// Main entry point
+// Main entry point // updated
 console.log('Welcome to animated-disco');
 
 // Initialize application
